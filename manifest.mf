@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.ofnodesandedges.spatialRanking
+OpenIDE-Module-Localizing-Bundle: com/ofnodesandedges/spatialRanking/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
