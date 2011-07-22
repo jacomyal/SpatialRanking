@@ -1,0 +1,8 @@
+-----
+SpatialRanking plugin for Gephi
+-----
+
+This plugin is not usable with the released version of Gephi 0.8 alpha, until the next update of some Gephi's APIs (Graph API, Attributes API and Ranking API).
+
+If you do want to use it currently, you have to install Gephi source code - more information at http://gephi.org/developers/intro.
+
